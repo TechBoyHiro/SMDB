@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SMDB", "SMDB\SMDB.csproj", "{C324EE54-307E-4E2F-8C31-23001A70F35E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityType", "ClassLibrary1\EntityType.csproj", "{D68153FB-DC8A-436E-B32B-C80F71086651}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C324EE54-307E-4E2F-8C31-23001A70F35E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C324EE54-307E-4E2F-8C31-23001A70F35E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C324EE54-307E-4E2F-8C31-23001A70F35E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C324EE54-307E-4E2F-8C31-23001A70F35E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D68153FB-DC8A-436E-B32B-C80F71086651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D68153FB-DC8A-436E-B32B-C80F71086651}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D68153FB-DC8A-436E-B32B-C80F71086651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D68153FB-DC8A-436E-B32B-C80F71086651}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB18D7FA-B85C-4DCB-A6D5-A703EAB9B3A0}
+	EndGlobalSection
+EndGlobal
